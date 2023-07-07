@@ -1,12 +1,11 @@
-# Mental Health and the Justice System Website
-## Data+/Bass Connections project at Duke University
+# Mental Health and the Justice System team website
 
-### Getting started
+## Getting started
 
 Use the **Terminal** instructions: https://quarto.org/docs/websites/#quick-start
 
-### Websites in Quarto
-https://quarto.org/docs/websites/
+## Websites in Quarto
+https://quarto.org/docs/websites
 
 
 
