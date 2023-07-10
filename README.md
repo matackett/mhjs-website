@@ -34,6 +34,7 @@ Websites in Quarto: https://quarto.org/docs/websites
 
 Use the search bar in the top-right corner to find info on specific topics.
 
+**Reminder: Regularly build the website, then commit and push the changes to GitHub.**
 
 
 
